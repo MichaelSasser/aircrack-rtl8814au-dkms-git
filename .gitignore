@@ -1,4 +1,6 @@
-pkg
-src
-aircrack*
-rtl*
+pkg/
+src/
+rtl8812au
+aircrack-rtl8814au-dkms-git*
+
+!dkms.conf
