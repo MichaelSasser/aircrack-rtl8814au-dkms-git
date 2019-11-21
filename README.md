@@ -1,6 +1,6 @@
 # aircrack-rtl8814au-dkms-git
 
-This is a Project for the AUR (Arch User Repository), but you can install the driver with this repository manually.
+This is a project for the AUR (Arch User Repository), but you can install the driver with this repository manually.
 
 ## Manual installation
 

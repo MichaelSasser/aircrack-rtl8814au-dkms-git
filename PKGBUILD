@@ -1,9 +1,9 @@
 # $Id$
-# Maintainer: Michael Sasser <Michael@MichaelSasser.de>
+# Maintainer: Michael Sasser <Michael@MichaelSasser.org>
 
 pkgname=aircrack-rtl8814au-dkms-git
 _pkgbase=rtl8812au
-pkgver=r321.ccea00c
+pkgver=r331.3df255b
 pkgrel=1
 pkgdesc="Driver with monitor mode and frame injection for the trl8814au wifi chip"
 arch=('i686' 'x86_64')
